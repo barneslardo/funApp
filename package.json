@@ -9,6 +9,12 @@
   "author": "Skylar Barnes",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "@okta/okta-signin-widget": "^2.15.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "oidc-passport": "0.0.12",
+    "passport": "^0.4.0",
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1"
   }
 }

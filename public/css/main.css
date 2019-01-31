@@ -1,0 +1,12 @@
+body {
+  background-color: #000000;
+}
+h1 {
+  color: #a00b0b;
+}
+.center {
+  margin: auto;
+  width: 35%;
+  border: 3px solid red;
+  padding: 50px;
+}
